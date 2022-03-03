@@ -1,0 +1,12 @@
+{
+  "name": "links.js",
+  "version": "0.0.1",
+  "description": "URL validation, transformation, and generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "author": "YodaLightsabr",
+  "license": "MIT"
+}
